@@ -1,6 +1,10 @@
 # Shopping Site 🛒  
 A simple shopping website built with HTML, CSS, and JavaScript. It provides users with an interactive shopping experience, showcasing products and a cart system.
 
+## Live Demo  
+[Click here to view](https://vish-sharma07.github.io/shoppingsite/)
+
+
 ## Features  
 ✅ Responsive design for mobile and desktop  
 ✅ Product listing with images and prices  
